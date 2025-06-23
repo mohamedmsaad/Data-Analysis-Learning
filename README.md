@@ -1,16 +1,17 @@
-# Projet Python – Calculatrice de moyenne
+# 🧮 Calculatrice de Moyenne – Python
 
-Ce petit projet a été réalisé dans le cadre de ma reconversion en data analyst.  
-Il permet de calculer la moyenne de trois notes et d'afficher un message d'admission ou d'ajournement.
+Ce projet simple permet de calculer la moyenne de trois notes entrées par l'utilisateur, puis d'afficher un message d'admission ou d'ajournement.
 
-## 🧪 Fonctionnalités
-- Demande trois notes à l'utilisateur
-- Calcule automatiquement la moyenne
-- Affiche si l'utilisateur est "admis" (>= 10) ou "ajourné"
-
-## 📌 Technologies utilisées
+## 🔧 Technologies utilisées
 - Python 3
-- Jupyter Notebook (via Anaconda)
+- Jupyter Notebook
 
-## 🚀 Prochaine étape
-Intégrer ce script dans une interface graphique ou une base de données.
+## 🧠 Objectifs pédagogiques
+- Pratiquer les bases de Python (input, float, conditions)
+- Apprendre à structurer un script simple
+- Publier un projet sur GitHub
+
+## ✅ Résultat
+Si la moyenne est supérieure ou égale à 10, l'utilisateur est admis. Sinon, il est ajourné.
+
+## 🗓️ Réalisé en Juin 2025 – par Mohamed Msaad
